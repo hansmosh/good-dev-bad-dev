@@ -42,10 +42,13 @@ Good developers format commit messages that stylistically match the rest of the 
 
 Good developers create pull requests that fix the problem at hand; nothing more, nothing less. Bad developers add additional "fixes" to pull requests.
 
+Good developers use clarification comments in code to explain non-intuitive solutions. Bad developers write complex code that requires clarification comments.
+
 ## Additional Resources
 
 - [Good Commit Messages](https://chris.beams.io/posts/git-commit/) by Chris Beams
 - [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) by Kevin London
 - [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer) by Andrew Hunt and David Thomas
+- [Commenting Code](https://medium.freecodecamp.com/code-comments-the-good-the-bad-and-the-ugly-be9cc65fbf83) by Bill Sourour
 
 This poem was inspired by Ben Horowitz's [Good Product Manager/Bad Product Manager](http://a16z.com/2012/06/15/good-product-managerbad-product-manager/).
